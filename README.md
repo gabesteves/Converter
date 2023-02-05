@@ -1,6 +1,6 @@
 # Temperature Converter
 
-The Tempereature Converter was an app I developed to continue pursuing the improvement of my skills in Android development.
+The Temperature Converter was an app I developed to continue pursuing the improvement of my skills in Android development.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
